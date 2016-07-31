@@ -1,0 +1,220 @@
+[ 2016-07-26T13:47:19+08:00 ] 127.0.0.1 /web/pluginRepository.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:PluginRepository
+
+[ 2016-07-26T14:51:19+08:00 ] ::1 /Web/Application/Admin/View/Public/__PUBLIC__/Admin/css/amazeui.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.039002s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T14:51:19+08:00 ] ::1 /Web/Application/Admin/View/Public/__PUBLIC__/Admin/css/admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038002s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T14:51:19+08:00 ] ::1 /Web/Application/Admin/View/Public/__PUBLIC__/Admin/i/favicon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T14:58:40+08:00 ] ::1 //Web/Application/Admin/View/Public/__PUBLIC__/Admin/css/amazeui.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T14:58:40+08:00 ] ::1 //Web/Application/Admin/View/Public/__PUBLIC__/Admin/css/admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T14:58:40+08:00 ] ::1 //Web/Application/Admin/View/Public/__PUBLIC__/Admin/i/favicon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T15:08:17+08:00 ] ::1 /Web/Application/Admin/View/Index/assets/i/examples/admin-safari.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T15:08:17+08:00 ] ::1 /Web/Application/Admin/View/Index/assets/i/examples/admin-ie.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+
+
+
+[ 2016-07-26T15:34:03+08:00 ] 127.0.0.1 /web/pluginRepository.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.214012s ]
+ERR: 无法加载模块:PluginRepository
+
+[ 2016-07-26T16:19:58+08:00 ] ::1 /Web/Application/Admin/View/Index/assets/i/examples/admin-chrome.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.060004s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:19:58+08:00 ] ::1 /Web/Application/Admin/View/Index/assets/i/examples/admin-safari.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.060004s ]
+ERR: 无法加载模块:Application
+
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/tp.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/xx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/icon0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/xxs.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/zxs.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/huodong1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/huodong2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/huodong3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/huodong4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/ry.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/ry1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/ry2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T16:23:30+08:00 ] ::1 /Web/Application/Home/View/Index/__PUBLIC__/Home/images/ry3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T17:12:08+08:00 ] ::1 //Web/Application/Home/View/Xszp/__PUBLIC__/Home/images/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T17:12:08+08:00 ] ::1 //Web/Application/Home/View/Xszp/__PUBLIC__/Home/images/ph.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T17:12:08+08:00 ] ::1 //Web/Application/Home/View/Xszp/__PUBLIC__/Home/images/jyal.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T17:19:36+08:00 ] ::1 //Web/Application/Home/View/Xszp/__PUBLIC__/Home/images/ph.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T17:19:36+08:00 ] ::1 //Web/Application/Home/View/Xszp/__PUBLIC__/Home/images/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T17:19:36+08:00 ] ::1 //Web/Application/Home/View/Xszp/__PUBLIC__/Home/images/jyal.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T17:19:38+08:00 ] ::1 //Web/Application/Home/View/Xszp/__PUBLIC__/Home/images/ph.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T17:19:38+08:00 ] ::1 //Web/Application/Home/View/Xszp/__PUBLIC__/Home/images/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-07-26T17:19:38+08:00 ] ::1 //Web/Application/Home/View/Xszp/__PUBLIC__/Home/images/jyal.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
